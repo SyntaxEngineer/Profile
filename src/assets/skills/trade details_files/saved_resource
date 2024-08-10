@@ -1,0 +1,1708 @@
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+<html>
+	<head>
+	<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-WZ2F44N');</script>
+<!-- End Google Tag Manager -->
+	<script>
+				
+				/*if(navigator.userAgent.match(/iPad|iPhone|Android|BlackBerry|Windows Phone|webOS/i)){
+					
+					
+					if(navigator.userAgent.match(/iPad|iPhone/i)){
+						window.open("https://apps.apple.com/in/app/sbismart/id969032055","_self") 
+					}else{
+						
+						window.open("https://play.google.com/store/apps/details?id=com.sbi.trade&hl=en_IN&gl=US","_self") 
+					}
+
+				}*/
+	</script>
+	<title>SBI Securities</title>
+	<base href='https://trade.sbisecurities.in/'>
+	<!--<SCRIPT src="/js/DisableNewWin.js" ></SCRIPT>-->
+	<link href="/js/frameworks/bootstrap/css/bootstrap_new_login.css?19.0" rel="stylesheet"/>
+	<!--<script  src="/js/frameworks/bootstrap/js/jquery-3.5.0.js?"></script>-->
+    <script  src="/js/frameworks/bootstrap/js/jquery-3.6.4.js?"></script>	
+	<!--<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>-->
+	<!--	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.0/jquery.min.js"></script> -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+	
+<script  src="/js/frameworks/bootstrap/js/bootstrap_new.js?"></script>
+	<script src="/js/frameworks/encryption/aes.js?38.0" type="text/javascript"></script>
+	<script src="/js/frameworks/encryption/AesUtil.js?38.0" type="text/javascript"></script>
+	<script src="/js/frameworks/encryption/pbkdf2.js?38.0" type="text/javascript"></script>
+	<script src="/js/frameworks/encryption/sha256.min.js?38.0" type="text/javascript"></script>
+	<script type="text/javascript" src="https://sbisecurities.allincall.in/files/deploy/embed_chatbot_1.js"></script>
+		<script>
+		
+		var retVec = "[[ONE, /TCSITS/cmtDir/images/, Image1.png, png, , TCSFS], [TWO, /TCSITS/cmtDir/images/, Image2.png, png, https://www.sbisecurities.in/refer-earn-program, TCSFS], [THREE, /TCSITS/cmtDir/images/, Image3.png, png, https://bit.ly/3JKbWnh, TCSFS]]";
+		//alert('3');
+		var myData=new Array('3');
+		$(document).ready(function(){  
+			
+		  
+		  
+		  var temp=new Array('6');
+		  
+				
+				temp['0']="ONE";
+				
+			
+				
+				temp['1']="/TCSITS/cmtDir/images/";
+				
+			
+				
+				temp['2']="Image1.png";
+				
+			
+				
+				temp['3']="png";
+				
+			
+				
+				temp['4']="";
+				
+			
+				
+				temp['5']="TCSFS";
+				
+			
+		 myData['0']=temp;
+		// alert(myData['0']);
+		 
+		  
+		  var temp=new Array('6');
+		  
+				
+				temp['0']="TWO";
+				
+			
+				
+				temp['1']="/TCSITS/cmtDir/images/";
+				
+			
+				
+				temp['2']="Image2.png";
+				
+			
+				
+				temp['3']="png";
+				
+			
+				
+				temp['4']="https://www.sbisecurities.in/refer-earn-program";
+				
+			
+				
+				temp['5']="TCSFS";
+				
+			
+		 myData['1']=temp;
+		// alert(myData['1']);
+		 
+		  
+		  var temp=new Array('6');
+		  
+				
+				temp['0']="THREE";
+				
+			
+				
+				temp['1']="/TCSITS/cmtDir/images/";
+				
+			
+				
+				temp['2']="Image3.png";
+				
+			
+				
+				temp['3']="png";
+				
+			
+				
+				temp['4']="https://bit.ly/3JKbWnh";
+				
+			
+				
+				temp['5']="TCSFS";
+				
+			
+		 myData['2']=temp;
+		// alert(myData['2']);
+		 
+		
+		 for(var m=0;m<myData.length;m++){
+		
+		   var path="../../images/"+myData[m][2];
+		   var imageLink=myData[m][4];
+		   
+		   if(m==0)
+		   {
+			   
+		   $("#myDiv").append("<li data-target='#myCarousel' data-slide-to="+m+" class='active'></li>");
+			$("#myDivInner").append("<div class='item active'> <a href='"+imageLink+"' target='_blank' > <img src='"+path+"' style='height:374px; border:1px solid #808080; width:690px'></div>");
+			
+			 
+		   }
+		   else
+		   {	
+			$("#myDiv").append("<li data-target='#myCarousel' data-slide-to="+m+"></li>");
+			$("#myDivInner").append("<div class='item'> <a href='"+imageLink+"'  target='_blank' > <img src='"+path+"' style='height:374px; width:690px'></div>");
+			
+			
+			}
+		  } 
+		  
+		  
+		});
+	</script>
+	
+	
+	
+	
+	
+	
+	
+	<style type="text/css"> 
+	
+	img#allincall-popup{
+			right: 0 !important;bottom: 3em !important;width: 5em !important;
+		}
+		.logonClassNew{background:url(/images/login-button.jpg) no-repeat;font-family:Arial;color:#000000;width:100px;height:27px;background-color:#F0851B;border-style:solid;border-color:#000000;border-width:1px;font-size:12px;font-weight:bold}
+
+		a.tooltip {outline:none; text-decoration:none;}
+		a.tooltip strong {line-height:30px;}
+		a.tooltip:hover {text-decoration:none;} 
+		a.tooltip span {
+			z-index:10;display:none; padding:20px 10px;
+			margin-top:-30px; margin-left:10px;
+			width:240px; line-height:16px;
+			font-family: Arial, Helvetica, sans-serif;
+			font-size: 12px;
+		}
+		a.tooltip:hover span{
+			display:inline; position:absolute; color:#111;
+			border:0px; background:#FFFFFF;}
+		/*.callout {z-index:20;position:absolute;top:30px;border:0;left:-12px;}*/
+			
+		/*CSS3 extras*/
+		a.tooltip span
+		{
+			border-radius:4px;
+			-moz-border-radius: 4px;
+			-webkit-border-radius: 4px;
+				
+			-moz-box-shadow: 5px 5px 8px #CCC;
+			-webkit-box-shadow: 5px 5px 8px #CCC;
+			box-shadow: 5px 5px 8px #CCC;
+		}
+
+		.annual{
+			text-decoration:none;
+			color:#000000;
+		}
+	</style>
+	<link rel="shortcut icon" href=""/>
+	<SCRIPT language=javascript>
+	
+	
+						   
+				var brokerId="5";
+				var OTPAsk = "First";
+			history.forward();
+			/*if(navigator.appVersion.indexOf("MSIE") != -1)
+				document.write('<link rel=\"stylesheet\" type=\"text/css\" href=\"../css/login_ie.css\">');      
+			else
+				document.write("<link rel=\"stylesheet\" type=\"text/css\" href=\"/stylesheets/login.css\">");     
+				document.write("<link rel=\"stylesheet\" type=\"text/css\" href=\"/stylesheets/login_ie.css\">");*/
+		   
+			function makeUpper()
+			   {
+				try{
+					 if(document.login_frm.userId)    
+							document.login_frm.userId.value=document.login_frm.userId.value.toUpperCase();
+				   }
+				catch(e)
+				   {
+				   }
+				}
+				
+				
+				
+				function mouseoverPass(obj){
+					var obj = document.getElementById('password');
+					obj.type = "text";	
+					obj.classList.add("forminputs1");
+				}
+				
+				function mouseoutPass(obj){
+					var obj = document.getElementById('password');
+					obj.type = "password";	
+					
+				}
+				
+			
+			/*function enterDOB()
+			 {
+				if(!numbersonly_order(this,event)){
+					return false;
+				}
+				 if ((navigator.appName == "Netscape") && !document.ALL) {
+				  document.captureEvents(Event.KEYPRESS);
+				  document.onkeypress = function (evt) {
+				   if (evt.which==32)
+				   {
+						return false;
+				   }
+				   if (evt.which==13)
+				   {
+						chkuserId();
+				   } 		   
+				  }
+				 }else{
+			
+				  if (event.keyCode==32)
+				   {
+						return false;
+				   } 
+				   if (event.keyCode==13)
+				   {
+						chkuserId();
+				   } 
+				 }
+				 return true; 
+			 }
+		*/
+		
+		function alpha(e) {
+			var k;
+			document.all ? k = e.keyCode : k = e.which;
+			return ((k > 64 && k < 91) || (k > 96 && k < 123) || k == 8 || (k >= 48 && k <= 57));
+		}
+		
+		
+		//function added to allow numbers only in DOB field.
+		function numbersonly_order(formControl,e)
+		{
+		//debugger;
+			/* alert('navigator.appName---'+navigator.appVersion); */
+			if(!e)
+				var e = window.event;
+			var keyCode;
+			if(e.keyCode)
+				keyCode=e.keyCode;
+			else if(e.which)
+				keyCode = e.which;
+			var ctrlKeyPressed = e.ctrlKey;
+			var shiftKeyPressed = e.shiftKey;
+		   var pressedKey = String.fromCharCode(keyCode).toLowerCase();     
+		   var fieldVal=formControl.value;
+			 if (ctrlKeyPressed && (pressedKey == "c" || pressedKey == "v")) 
+		   {        
+			  return false;
+		   }
+			if ((keyCode<48||keyCode>57))
+			{
+				if(keyCode==37 || keyCode==39)
+					return false;
+				if(!(keyCode==8 || keyCode==9 || keyCode==13 || (keyCode==9 && shiftKeyPressed))) 
+				{
+					
+					//alert("keyCode = "+keyCode);
+					return false;
+				}
+					
+			}
+			 if ((navigator.appName == "Netscape") && !document.ALL) {
+				  document.captureEvents(Event.KEYPRESS);
+				  document.onkeypress = function (evt) {
+				   if (evt.which==32)
+				   {
+						return false;
+				   }
+					   
+				  }
+				 }else{
+			
+				  if (event.keyCode==32)
+				   {
+						return false;
+				   } 
+				  
+				 }
+			return true;
+		}
+
+			 
+				
+			 function chkuserId(theForm) 
+			 {
+			  var frmname = theForm.name;
+			  var theValue = theForm.userId.value;
+			  theForm.dob.value="11111111";
+			  
+			  if ((theValue.length == 0) || (theValue == "")) {
+				theForm.password.value = "";
+				theForm.dob.value = "";
+				alert("Please enter a valid username.");
+				theForm.userId.focus();
+				theForm.userId.select();
+				return false;
+			  }
+			  else if(theForm.password.value == "") {
+				alert("Please enter your password.");
+				theForm.password.focus();
+				return false;
+			  }
+				else if(theForm.dob.value==""){ 
+					alert("Please enter date of birth.");
+					theForm.dob.focus();
+					return false; 
+				}
+				else if(theForm.dob.value !="" && !validateDate(theForm.dob)){
+					theForm.dob.focus();
+					return false;
+					}
+				else if(!validateDate(theForm.dob)){
+					 theForm.dob.focus();
+					return false;
+					}
+					else
+					{
+					encpt(theForm);
+					disableSubmitButton(theForm.submitButton);
+				return true;
+			  }
+			 }
+
+			  function validateDate(input){
+				var returnval=false;
+				var dateval = input.value;
+				
+				var dayfield=dateval.substring(0,2);
+				var monthfield=dateval.substring(2,4);
+				var yearfield=dateval.substring(4,8);
+				var dayobj = new Date(yearfield, monthfield-1, dayfield)
+				
+				if ((dayobj.getMonth()+1!=monthfield)||(dayobj.getDate()!=dayfield)||(dayobj.getFullYear()!=yearfield))
+					alert("Invalid Day, Month, or Year range detected.Please correct and submit again.");
+				else
+					returnval=true
+						
+						
+				if (returnval==false) input.select() 
+					return returnval
+				}
+				function disableSubmitButton(buttonObj)
+				{
+				  buttonObj.disabled = true;
+				}
+				  
+				  
+			function encpt(loginForm){
+				
+				document.getElementsByClassName('fa-eye-slash').disabled=false;
+				
+				document.getElementById('password').setAttribute('type','password');
+				document.getElementById('dob').setAttribute('type','password');
+					
+				document.getElementById("password").value = document.getElementById("password_enc").value;
+				document.getElementById("BaseNo").value = document.getElementById("BaseNo_enc").value;
+				document.getElementById("userId").value = document.getElementById("userId_enc").value;
+				document.getElementById("dob").value = document.getElementById("dob_enc").value;
+				
+				loginForm.userId.type = "password";
+				loginForm.dob.value = document.getElementById("dob").value;
+				loginForm.userId.value = document.getElementById("userId").value;
+				
+			
+				/* var strURL = '/checkUtility.jsp';
+				$.ajax({
+					url: strURL,		
+					type: 'POST',
+					async: false,
+					cache: false,
+					dataType: "json",
+					success: function(json) {
+						var loginId = loginForm.userId.value;
+						var dob = loginForm.dob.value;
+						var randomHash=Math.floor(Math.random() * 115463345);//document.getElementById("LoginID").value;
+						var randomHash1 = randomHash.toString();
+						var pwd=document.getElementById("password").value;
+						var hash = sha256(randomHash1);
+						var Hash1 = sha256(json["data"]["h2"]);
+						var Hash2 = sha256(pwd);
+						var Hash3 = sha256(loginId);
+						var salt = hash;
+			
+						var aesEncryption = new AesEncryption(128, 1000);
+						var encryptedString = aesEncryption.encrypt(salt, json["data"]["liv"], json["data"]["tech"], pwd);
+						var encHash = aesEncryption.encrypt(Hash1, json["data"]["liv"], json["data"]["tech"], randomHash1);
+						var encLogin = aesEncryption.encrypt(Hash2, json["data"]["liv"], json["data"]["tech"], loginId);
+						var encDob = aesEncryption.encrypt(Hash3, json["data"]["liv"], json["data"]["tech"], dob);
+
+						document.getElementById("password").value = encryptedString;
+						document.getElementById("BaseNo").value = encHash;
+						loginForm.userId.value = encLogin;
+						loginForm.userId.type = "password";
+						loginForm.dob.value = encDob;
+
+						document.getElementById("dob").value = encDob;
+						document.getElementById('password').setAttribute('type','password')
+						document.getElementById('dob').setAttribute('type','password')
+					},
+					error: function(XMLHttpRequest, textStatus, errorThrown) {
+						alert(textStatus);
+						alert(errorThrown);
+					}
+				}); */
+			}
+		   
+			function removeSpace()
+			 {
+				 if ((navigator.appName == "Netscape") && !document.ALL) {
+				  document.captureEvents(Event.KEYPRESS);
+				  document.onkeypress = function (evt) {
+				   if (evt.which==32)
+				   {
+						return false;
+				   }       
+				  }
+				 }else{
+			
+				  if (event.keyCode==32)
+				   {
+						return false;
+				   } 
+				 }
+			 }  
+
+
+				function OpenLinkPass()
+				{
+				   window.open("/help/PasswordInstpage.jsp");
+				}
+
+
+				function showChatNow()
+				{	 
+				window.open('https://chat.SBIsec.com/cosmocall/SBI-chat.html', '','toolbar=no,statusbar=no,menubar=no,width='+(screen.width*0.995)+',height='+screen.height*0.90+',resizable=no,top=0,left=0');
+				}
+				
+				function openMobileURL()
+				{	 
+				window.open('http://www.SBIsec.com/ContentPages.aspx?docid=201102110500561662414', '','toolbar=no,statusbar=no,scrollbars=yes,menubar=no,width='+(screen.width*0.995)+',height='+screen.height*0.90+',resizable=no,top=0,left=0');
+				}
+
+				function getDefaultPage(objSelect)
+				{
+				  var selectedValue = objSelect.options[objSelect.selectedIndex].value;
+				  document.login_frm.jspName.value =selectedValue;              
+				}
+				
+				function OpenLink(linkName)
+				{
+				 
+				  var strURL="";
+				  var height=350;
+				  var width=600;
+				  var screenPosX=20;
+				  var screenPosY=20;
+				  if(linkName =="B") strURL = "http://www.bseindia.com";
+				  else if(linkName =="N") strURL = "http://www.nseindia.com";
+				  else if(linkName =="S") strURL = "http://www.sebi.com";
+				  else if(linkName =="D") strURL = "/"+"help/Disclaimer.html";
+				  else if(linkName =="H") 
+					  {
+						 strURL = "/"+"help/SSL35.html";
+						 width=screen.width;
+						 height=(screen.height/2)-100;
+						 screenPosX=0;
+						 screenPosY=0;
+					  }
+				  else if(linkName =="Privacy") strURL = "/"+"help/Privacy.html";
+				  else if(linkName =="Terms") strURL = "/"+"help/TermsCondition.html";
+				  else if(linkName =="login") strURL = "/"+"help/LoginHelp.jsp";      
+				  else if(linkName =="signup") strURL = "http://www.SBIsec.com/TradeAccount.aspx";
+				  else if(linkName =="pan") strURL = "/"+"help/pan.html";
+				  else if(linkName =="brok") strURL = "/"+"help/brok.html";
+				  else if(linkName =="browser")
+				  {
+					strURL = "/"+"help/browser.html";
+					width=(screen.height/2)+120;
+					height=screen.height-100;
+					screenPosX=10;
+					screenPosY=10;
+				  }
+				  else if(linkName =="Demo")
+				  {
+					strURL = "http://www.sbisec.com/TradingDemo/index.html";  
+					width=screen.width-100;
+					height=screen.height-100;
+					screenPosX=10;
+					screenPosY=10;
+				  } 
+				  else if(linkName =="Password") 
+				 {     
+					strURL ="help/forgotFrame.jsp";
+					width=screen.width-335;
+					height=screen.height-60;
+					screenPosX=10;
+					screenPosY=10;
+					Win_Name="_blank"
+				  }
+				  reference = window.open(strURL,"_blank","toolbar=no,location=no,"+"directories=no,status=no,menubar=no,scrollbars=yes,resizable=no,screenX="+screenPosX+",screenY="+screenPosY+"copyhistory=yes,height="+height+", width="+width);				}
+			
+				function Opensbisec()
+					{
+						window.open("http://www.sbisec.com","_blank","toolbar=no,location=no,"+"directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,screenX=0,screenY=0"+"copyhistory=yes,height="+screen.height+", width="+screen.width);      
+					} 
+
+				function openNewWindow(strURL,width,height)
+					{		   
+						window.open(strURL ,"_blank","toolbar=no,location=no,"+"directories=no,status=no,menubar=no,scrollbars=yes,resizable=yes,"+"copyhistory=yes,height="+height+", width="+width);
+					}
+
+				function setfocus()
+				   {
+					 document.login_frm.userId.focus();
+				   }
+
+					  function populateLogin()
+					   {
+					       var hi="null";
+						   alert(hi);
+					   document.login_frm.userId.value="";
+					   document.login_frm.password.focus();
+						
+					   }
+
+
+	</script>
+
+	<style type="text/css">
+		A:link {text-decoration: none;color:#5e50ad !important}
+		A:visited {text-decoration: none}
+		A:active {text-decoration: none}
+		A:hover {text-decoration: underline}
+		<!--A:hover {text-decoration: underline; color:#ED1C24;}-->
+	</style>
+
+
+	<style type="text/css">
+	<!--
+	A{text-decoration:none}
+	-->
+	</style>
+
+		<style> a.tooltip {outline:none; text-decoration:none;}
+		a.tooltip strong {line-height:30px;}
+		a.tooltip:hover {text-decoration:none;} 
+		a.tooltip span {
+			z-index:10;display:none; padding:20px 10px;
+			margin-top:-30px; margin-left:10px;
+			width:240px; line-height:16px;
+			font-family: Arial, Helvetica, sans-serif;
+			font-size: 12px;
+		}
+		a.tooltip:hover span{
+			display:inline; position:absolute; color:#111;
+			border:0px; background:#FFFFFF;}
+		/*.callout {z-index:20;position:absolute;top:30px;border:0;left:-12px;}*/
+			
+		/*CSS3 extras*/
+		a.tooltip span
+		{
+			border-radius:4px;
+			-moz-border-radius: 4px;
+			-webkit-border-radius: 4px;
+				
+			-moz-box-shadow: 5px 5px 8px #CCC;
+			-webkit-box-shadow: 5px 5px 8px #CCC;
+			box-shadow: 5px 5px 8px #CCC;
+		}
+
+		.annual{
+			text-decoration:none;
+			color:#000000;
+		}
+
+		/****************** New logs css starts here **********************/
+
+		/********************* Embed Fonts starts here ************************/
+
+		@font-face {
+		  font-family: 'robotoblack';
+		  src: url("fonts/roboto-black-webfont.eot");
+		  src: url("fonts/roboto-black-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/roboto-black-webfont.woff2") format("woff2"), url("fonts/roboto-black-webfont.woff") format("woff"), url("../../fonts/roboto-black-webfont.ttf") format("truetype"), url("../../fonts/roboto-black-webfont.svg#robotoblack") format("svg");
+		  font-weight: normal;
+		  font-style: normal;
+		}
+		@font-face {
+		  font-family: 'robotobold';
+		  src: url("fonts/fonts/roboto-bold-webfont.eot");
+		  src: url("fonts/fonts/roboto-bold-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/fonts/roboto-bold-webfont.woff2") format("woff2"), url("fonts/fonts/roboto-bold-webfont.woff") format("woff"), url("fonts/fonts/roboto-bold-webfont.ttf") format("truetype"), url("fonts/fonts/roboto-bold-webfont.svg#robotobold") format("svg");
+		  font-weight: normal;
+		  font-style: normal;
+		}
+		@font-face {
+		  font-family: 'robotolight';
+		  src: url("fonts/fonts/roboto-light-webfont.eot");
+		  src: url("fonts/fonts/roboto-light-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/fonts/roboto-light-webfont.woff2") format("woff2"), url("fonts/fonts/roboto-light-webfont.woff") format("woff"), url("fonts/fonts/roboto-light-webfont.ttf") format("truetype"), url("fonts/fonts/roboto-light-webfont.svg#robotolight") format("svg");
+		  font-weight: normal;
+		  font-style: normal;
+		}
+		@font-face {
+		  font-family: 'robotomedium';
+		  src: url("fonts/fonts/roboto-medium-webfont.eot");
+		  src: url("fonts/fonts/roboto-medium-webfont.eot?#iefix") format("embedded-opentype"), 
+		  url("fonts/fonts/roboto-medium-webfont.woff2") format("woff2"), url("fonts/fonts/roboto-medium-webfont.woff") format("woff"), url("fonts/fonts/roboto-medium-webfont.ttf") format("truetype"), url("fonts/fonts/roboto-medium-webfont.svg#robotomedium") format("svg");
+		  font-weight: normal;
+		  font-style: normal;
+		}
+		@font-face {
+		  font-family: 'robotoregular';
+		  src: url("../fonts/fonts/roboto-regular-webfont.eot");
+		  src: url("../fonts/fonts/roboto-regular-webfont.eot?#iefix") format("embedded-opentype"), url("../fonts/fonts/roboto-regular-webfont.woff2") format("woff2"), url("fonts/fonts/roboto-regular-webfont.woff") format("woff"), url("../fonts/fonts/roboto-regular-webfont.ttf") format("truetype"), url("../fonts/fonts/roboto-regular-webfont.svg#robotoregular") format("svg");
+		  font-weight: normal;
+		  font-style: normal;
+		}
+		@font-face {
+		  font-family: 'robotothin';
+		  src: url("fonts/fonts/roboto-thin-webfont.eot");
+		  src: url("fonts/fonts/roboto-thin-webfont.eot?#iefix") format("embedded-opentype"), url("fonts/fonts/roboto-thin-webfont.woff2") format("woff2"), url("fonts/fonts/roboto-thin-webfont.woff") format("woff"), url("fonts/fonts/roboto-thin-webfont.ttf") format("truetype"), url("fonts/fonts/roboto-thin-webfont.svg#robotothin") format("svg");
+		  font-weight: normal;
+		  font-style: normal;
+		}
+		/********************* Embed Fonts starts here ************************/
+
+		*{ margin: 0px; padding: 0px;}
+
+		.pull-left{ float: left;}
+
+		.pull-right{ float: right;}
+
+		.clearfix{clear: both;}
+
+		.headWrapper,.footerWrapper{ background: #5e50ad;}
+		
+		.footerWrapper{ background: #fff; border: 1px solid #808080!important;}
+
+		.logo{ margin:9px 0px 0px 100px;}
+
+		.logsHeader{width: 1217px; height: 50px; margin: 0px auto; line-height: 50px; background: #5e50ad;}
+
+		.contentWrapper{ background: #fff; }
+
+		.midContent{ width: 1217px; margin: 0px auto;  background: #fff;  }
+
+		.loginSection{ padding: 15px 0 0px; margin-bottom:10px;}
+
+		.promoSection{ width: 1137px; margin: 30px auto 0; padding: 0px 40px;}
+
+		.confirmSection{ padding: 30px 0px 0px; text-align: center;}
+
+		.loginBtn{ padding:5px 0 0px; }
+
+		.loginBtn input[type="submit"]{
+		font-family: robotoregular; background: #5e50ad; width: 90%;	color: #fff;
+		font-size: 25px;text-align: center; margin-left:30px !important;	text-decoration: none;display: block;
+		margin: 15px auto;	padding: 5px 0px 10px; border: none;  border-radius:10px;  cursor: pointer;
+		}
+
+		.confirmSection h1{ font-family: robotoregular; font-size: 32px; color: #0000ef; 
+		  line-height: 40px;}
+
+		.confirmSection a{ text-decoration: none;}
+
+		.confirmSection a span{ font-family: robotoregular;
+			background: #003b90;
+			width: 490px;
+			height: 34px;
+			color: #fff;
+			font-size: 25px;
+			text-align: center;
+			text-decoration: none;
+			display: block;
+			margin: 20px auto;
+			padding: 5px 0px 10px;}
+
+		.loginBtn a span{ width: 100%; }    
+
+		 .form-icons{ background: #fff;
+			width: 68px;
+			height: 38.5px;
+			border-radius: 5px 0px 0px 5px;
+			text-align: center;
+			vertical-align: middle;
+			padding-top: 5px;} 
+
+		 ::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+		  color: #b3b3b3; font-size: 16px; text-transform: capitalize;
+		}
+		::-moz-placeholder { /* Firefox 19+ */
+		  color: #b3b3b3; font-size: 16px; text-transform: capitalize;
+		}
+		:-ms-input-placeholder { /* IE 10+ */
+		  color: #b3b3b3; font-size: 16px; text-transform: capitalize;
+		}
+		:-moz-placeholder { /* Firefox 18- */
+		  color: #b3b3b3; font-size: 16px; text-transform: capitalize;
+		} 
+
+        .date-inputs ::-webkit-input-placeholder{
+        	text-transform: uppercase !important;
+        }
+
+		.form-fields{ margin-bottom: 5px;}   
+
+		 .userIcon{ background: url(images/logs/userName_icon.png) no-repeat center center;
+			width: 37px; height: 30px; display: inline-block;} 
+
+		 .pwdIcon{ background: url(images/logs/pwd_icon.png) no-repeat center center;
+			width: 37px; height: 30px; display: inline-block;} 	
+
+		 .calIcon{ background: url(images/logs/cal_icon.png) no-repeat center center;
+			width: 37px; height: 30px; display: inline-block;}	
+
+		 .form-inputs input[type="text"]{ width: 403px; background: #fff; height: 38px; 
+			padding: 0px 20px; color: #000; border: 1px solid #808080!important; border-radius: 5px 5px 5px 5px; 
+			 font-size: 18px;}	
+
+		.form-inputs input[type="password"]{ width: 403px; background:#fff; height: 38px; 
+			padding: 0px 20px; color: #000; border: 1px solid #808080!important; border-radius: 5px 5px 5px 5px; 
+			 font-size: 18px;} 	
+			 
+		#otp_pin {width: 350px !important;} /** 19 Aug for 2fa **/
+		.otpDivBox { border: solid black 1px; padding: 20px; background-color: white ;text-align: center;width: 110%;display: table-caption;}
+		
+		#validateOtp {width: 350px !important;
+		font-family: robotoregular;
+		background: #5e50ad;
+		color: #fff;
+		/* font-size: 25px; */
+		text-align: center; /*margin-left:30px !important;*/
+		text-decoration: none;
+		/* display: block; */
+		margin: 15px auto;
+		padding: 5px 0px 5px;
+		border: 3px solid #5e50ad;  border-radius:10px;
+		cursor: pointer;
+		
+		} /** 19 Aug for 2fa **/
+			 
+			 
+		.forminputs1 input[type="password"]{ width: 403px;  background:#fff ;  height: 38px; 
+			padding: 0px 20px; color: #000; border: 1px solid #808080!important; border-radius: 5px 5px 5px 5px; 
+			 font-size: 18px;} 	
+			 
+		.forminputs1 input[type="text"]{ width: 403px;  background:#fff ;  height: 38px; 
+			padding: 0px 20px; color: #000; border: 1px solid #808080!important; border-radius: 5px 5px 5px 5px; 
+			 font-size: 18px;} 	
+
+			 
+			 
+
+		 .form-links{ padding: 2px 20px 7px;} 	
+
+		 .form-links a{ font-family: robotolight;  color: #5e50ad;   font-size: 14px;
+         line-height: 16px;}
+
+		 .formSection h3{  font-family: robotoregular;  font-size: 22px;  line-height: 30px;
+			color: #5e50ad;   font-weight: normal;   text-align: center;  margin: 0px 0 10px;}
+
+		.openAcc{ text-align: center;}
+
+		.openAcc a{ background: url(images/logs/open_Acc_Lock_Icon.png) no-repeat 0% center;
+			font-family: robotoregular;
+			font-size: 26px;
+			color: #ed1b24;
+			text-align: center;
+			line-height: 40px;
+			font-weight: 600;
+			padding: 10px 0px 0px 45px;} 
+
+		.openAcc p { padding:0px; margin: 0px; }   
+
+		.openAcc p a{ background: none; padding: 0px; font-family: robotoregular;  font-size: 14px;  line-height: 30px;  color: #5e50ad;   font-weight: normal;} 
+
+		.terms{ line-height: 25px; text-align: right;}	
+
+		.terms a{ font-family: robotoregular;  font-size: 12px;  color: #5e50ad;   font-weight: normal;}
+
+		.footerContent{ width: 1217px; height: 93px; margin: 5px auto;  background:#fff !important;}
+
+		.footerContent ul{ list-style: none;
+			width: 100%;
+			margin: 7px auto;}
+
+		.footerContent ul li{  display: inline; float: left;  text-align: center;  padding: 0px 20px 0px;
+           width: 10em;}
+
+		.footerContent ul li span{
+			color: #5e50ad;
+			font-size: 13px;
+			font-weight: normal;
+			line-height: 14px;
+			white-space: nowrap;
+			font-family: robotoregular;}
+
+		.footerContent ul li span span{ font-size: 12px;}   
+
+		.footerText{ margin: 5px 0px;}
+
+		.footerText p{ font-family: Arial, Helvetica, sans-serif;
+		 font-size: 14px; font-weight: normal; color: #808080; text-align: center; line-height: 16px;} 
+
+		 .footerText ul li{ display: inline; padding: 0px 25px;}
+
+		.footerText ul li a{ font-family: Arial, Helvetica, sans-serif; color:#808080; font-size: 12px; 
+		    font-weight: 400;}
+
+		/****************** New logs css ends here **********************/
+
+
+		</style>
+
+
+		<style type="text/css">
+			<!--
+			A{text-decoration:none}
+			-->
+		</style>
+
+
+
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch"}]);</script>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="PH5PN-2TF8M-QJM5X-75397-MHY82",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"PH5PN-2TF8M-QJM5X-75397-MHY82";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n=""=="true"?1:0,t="",a="eqeub5aq7m26ujqacqhqabqaabsw2lxc-f-91ba2a2f1-clienttons-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"36","ak.cp":"1286428","ak.ai":parseInt("771642",10),"ak.ol":"0","ak.cr":28,"ak.ipv":6,"ak.proto":"h2","ak.rid":"197ef4b9","ak.r":38160,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"2409:40f4:10fb:35ea::","ak.cport":55591,"ak.gh":"23.44.10.38","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1701654242","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==cW1NJ0SlDdKpiso0AQRqqgDy1Db+o3Kztt30c8XpWm384VrzYVlAi9ACfKD/fLXI1Qtosu/CghOWrJEQ8LaZbW8j4MCka+CSrA5S1qNyAncgJ4WHjb7RE19SH8kekLVy8phkFgWfIME2nerxb4EHQeRE1oolF/Q9HfFcqiyz1HuqnUJiHin1YL0vvYryRevVafB181XML3jiV1InuHk9SJU31OmbOeqddUnt7FghTotcbxhnk8EnViWEMoHqGZtz942YxeOM6D7w10TR50ujKSW4mqqbeO+abHQzpiT655y1Sb63AUDRTHSs0MH7IZmmbJWUvzP5qaAk/bfMrhWff7oLSdWihJ8M2adAZoV8vx7FsVKezCIC3LPGJ6vLmpwVyWID7h+3uLSEbnluV4xLHBImGQ/vcevsXo3R8kMnJpg=","ak.pv":"16","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
+	<body onLoad="if(top != self) top.location.href = location.href; populateLogin();setfocus();makeUpper(); ">
+	<!-- Google Tag Manager (noscript) -->
+<noscript><div src="https://www.googletagmanager.com/ns.html?id=GTM-WZ2F44N"
+height="0" width="0" style="display:none;visibility:hidden"></div></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+	<!-- main wrapper starts here -->
+	<div class="main-wrapper">
+
+		<!-- header starts here -->
+		<header>  
+			<div class="headWrapper" style="height:58px;" >
+				<div class="logsHeader">
+					<div class="" >
+						<a href="https://www.sbisecurities.in"  target="_blank" ><img src="/images/SSL_Logo_Black.png" alt="SBI Securities" title="SBI Capital" border="0" ></a>
+					</div>
+					<div class="clearfix"></div>
+
+				</div>
+			</div>
+		</header>
+		<!-- header ends here -->
+		<div class="clearfix"></div>
+
+		<!-- content starts here -->
+		<section>
+			<div class="contentWrapper">
+				<div class="midContent loginSection">
+					
+					<!--<div class="logPromos pull-left">
+						<!--<a href=""  target="_blank" ><img src="/images/Image1.png" alt="sbi" title="sbi Securities" border="0" width="676" height="400" ></a> 
+						<span  target="_blank" ><img src="/images/Image1.png" alt="sbi" title="sbi Securities" border="0" width="676" height="400" ></span>
+					
+					</div>-->
+					<!--sliding images starts-->
+					<div id="myCarousel" class="carousel slide" data-ride="carousel" data-interval="2000" style = "border:0px;width:690px; height:374; float:left;">
+						<!-- Indicators -->
+						<ol class="carousel-indicators" id="myDiv">
+						 
+						</ol>
+
+						<!-- Wrapper for slides -->
+						<div id="myDivInner" class="carousel-inner" >
+						  
+						</div>
+
+						<!-- Left and right controls -->
+						<!--<a class="left carousel-control" href="#myCarousel" data-slide="prev">
+						  <span class="glyphicon glyphicon-chevron-left"></span>
+						  <span class="sr-only">Previous</span>
+						</a>
+						<a class="right carousel-control" href="#myCarousel" data-slide="next">
+						  <span class="glyphicon glyphicon-chevron-right"></span>
+						  <span class="sr-only">Next</span>
+						</a>-->
+					</div>
+					<!--sliding images end-->
+					
+					
+					
+					
+
+					<div class="formSection pull-right">
+
+						<form action='authenticate' method="post" id="login_frm"  name="login_frm" onSubmit="return chkuserId(this)" target="_self" autocomplete=off>
+							<div id="otpHideFields"><!--2FA-->
+							<div class="form-fields">
+								<div class="form-icons pull-left"><span class="userIcon"></span></div>
+								<div class="form-inputs pull-left">
+									<input size="30" type="text" placeholder="Client Code"  maxlength="20" id="userId" name="userId" tabindex="1"  onBlur="makeUpper();this.placeholder = 'Client Code'"  onkeypress="return alpha(event)" />
+									<div class="clearfix"></div>
+									<div class="form-links">
+										<a href="/pages/forgotUsername.jsp?reqFor=FL" target="_blank" class="pull-left">Forgot Client Code?</a>
+										
+										
+										<!--<a id ="demo1" style="margin-left:15px;" href="https://www.sbismart.com" target="_blank" class="pull-left">Demo</a>-->
+										
+
+										<a href="/pages/forgotUsername.jsp?reqFor=UL" target="_blank" class="pull-right">Unlock Account?</a>
+										<div class="clearfix"></div>
+									</div>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+							<div class="clearfix"></div>
+
+							<div class="form-fields">
+								<div class="form-icons pull-left"><span class="pwdIcon"></span></div>
+								<div class="forminputs1 pull-left">
+									<input size="30" type="password" placeholder="Password" title="8 to 12 characters" name="password" id="password" tabindex="2" onKeyPress="return removeSpace()" autocomplete=off  onblur="this.placeholder = 'Password'"/> 
+													
+									<span toggle ="#password-field" disabled="false" class="fa fa-fw fa-eye-slash field_icon toggle-password" style="width: 20px;position: relative;right: 26px;"></span>							
+									
+									
+									
+									<div class="clearfix"></div>
+									<div class="form-links">
+										<a href="/help/ForgotPassword.jsp?optionType=OTP" target="_blank" class="pull-left">Generate/Forgot Password?</a>
+										<!--<a href="/help/passwordInstpage.jsp?" target="_blank" class="pull-left">Forgot Password?</a>-->
+										<a id ="demo" style="margin-left:15px" href="https://www.sbisecurities.in/corporate-website/knowledge-center/demos" target="_blank" class="pull-left">Demo</a>
+										<!--<a href="https://ntrade.sbisec.com/help/passwordInstpage.jsp;jsessionid=DCF1A54EC6CF94B644E3A25B34682A70" target="_blank" class="pull-left">Forgot Password?</a>-->
+										<div class="clearfix"></div>
+									</div>
+								</div>
+								<div class="clearfix"></div>
+							</div>
+							<div class="clearfix"></div>
+					
+					
+				  
+							<div class="form-fields" id="dobfield" > <!-- Arjun: added dobfield id and dob id for 2fa -->
+								<div class="form-icons pull-left"><span class="calIcon"></span></div>
+								<div class="form-inputs pull-left date-inputs">
+									<input size="30" value="11111111"  type="password"  onblur="this.placeholder = 'Date of Birth (DDMMYYYY)'" maxlength="8" name="dob" id="dob" tabindex="3" onKeyPress="return numbersonly_order(this,event);"  placeholder="Date of Birth (DDMMYYYY)" 
+									 />
+									 <span toggle ="#password-field" disabled="false" class="fa fa-fw fa-eye-slash field_icon toggle-dob" style="width: 20px;position: relative;right: 26px;"></span>
+									<!--<input type="text" placeholder="Date of Birth (DD/MM/YYYY)" name=""> -->
+								</div>
+								<div class="clearfix"></div>
+							</div>
+				  
+					
+					
+					</div><!-- Arjun: otpHideFields div end  -->
+							<div class="clearfix"></div>
+
+							<div class="confirmSection loginBtn">
+									
+									
+										<input  type="submit" name ="submitButton" id="submitButton" value="Login Now" tabindex="5"> 
+										
+										<div id="TandC">
+								
+										<p>By signing in, I agree to <a href ="https://www.sbisecurities.in/terms">Terms & Conditions</a></p>
+										
+							</div>
+							</div>
+							
+							
+							<div class="clearfix"></div>
+							
+							<!-- 19 Aug for 2fa -->
+							<div class="form-inputs confirmSection loginBtn" id="otpdiv" style="text-align: left !important;">
+									
+									
+										<input  type="submit" name ="otpSubmit1" id="otpSubmit1" value="Submit" tabindex="5" > 
+										<!--<span id="otpmesg" style="margin: 0px;display: none; ">Authenticate using 'One Time Password' sent on your registered mobile no. & email id</span>-->
+										<p id="otpmesg1" style="display: none;margin-left:10px;color:#5e50ad;">Authenticate using 'ONE TIME PASSWORD' sent on your registered mobile no. & email id</p>
+										<!--<p id="otpmesg2" style="display: none;margin-left:80px;" >registered mobile no. & email id</p>-->
+										
+										<input type="hidden"  name="otp_pin" placeholder="Enter 4 digit otp" maxlength="4"  id="otp_pin" onKeyPress="return numbersonly_order(this,event);" pattern="\d{4}" required/>
+										<br>
+										<input  type="hidden" name ="validateOtp" id="validateOtp" value="Submit" style="height: 40px; width:150px;" >
+										<br>
+										<p id="otpmesg" style="display: none;margin-left:120px;font-weight:bold;">Not received an OTP?</p>
+										<a id="resendOTP" style="margin-left:140px; align:center;" href="javascript:resend_OTP()"  class="pull-left">RESEND OTP</a>
+										<br>
+										<br>
+										<a id="backToLogin" style="margin-left:120px;font-weight:bold;" href="javascript:backToLogin()"  class="pull-left"><u>BACK TO LOGIN PAGE</u></a>
+										
+							</div>
+							<!-- 19 Aug for 2fa  -->
+							
+							
+							<!--<div >
+						<a href="https://sbicaps.allincall.in/chat/bot/?id=1&name=prod" target="_blank">   <!--<a href=" https://uat.sbisecurities.in/contact-us" target="_blank">
+							<img src="/images/logs/Mitra-Logo.png" alt="Chat Bot"  style="margin-left:393px; margin-top:44px;padding-left:37px;"  border="0"><br/>
+							
+							</a>
+						</div>-->
+							
+							
+							
+							<input type ="hidden" name = "terminal" value="ITS">
+								<input type ="hidden" name = "isPremium" value="null">
+								  
+								  <input type ="hidden" name = "jspName" value="MainMenu">
+								  
+								  <input type ="hidden" name="hostName" value="trade.sbisecurities.in">
+								  <input type="hidden" name="locale" value="en"> 
+								  <input type="hidden" name="baseReqProcessor" value="auth">
+								  <input type="hidden" id="ISIN" name="ISIN" value="INE467B01029">
+								  <input type="hidden" id="BaseNo" name="BaseNo" value="">
+
+								  <!-- 19 Aug for 2fs -->
+								  <input type="hidden" id="BaseNo_enc" name="BaseNo_enc" value="">
+								  <input type="hidden" id="userId_enc" name="userId_enc" value="">
+								  <input type="hidden" id="password_enc" name="password_enc" value="">
+								  <input type="hidden" id="dob_enc" name="dob_enc" value="">
+
+							<!--<h3>Don't have an account with us?</h3>-->
+
+							<div class="openAcc">
+								<!--<a href="https://www.sbisec.com/open-trading-ac" target="_blank">Open Account instantly</a>
+								<p><a target="_blank" href="https://udn.trade.sbisec.com/" >Check your account opening status</a></p>-->
+							</div>
+						</form>
+
+					</div>
+					
+					<div class="clearfix"></div>
+					<div class="clearfix"></div>
+				<div class="clearfix"></div>
+
+					<!--<div class="terms"><a href="https://www.sbisec.com/article/disclaimer-1795" target="_blank">Terms &amp; Conditions</a></div>-->
+
+				</div>
+
+				<div class="clearfix"></div>
+				<div class="clearfix"></div>
+
+
+			</div>
+		</section>
+		<!-- content ends here -->
+		<div class="clearfix"></div>
+
+		<!-- footer starts here -->
+		<footer>
+		<div class="clearfix"></div>
+			<div class="footerWrapper">
+
+				<div class="footerContent">
+				  
+				  <ul>
+				  
+				  
+						<li>
+							<!--<a href="https://digikyc.sbismart.com/SBIDIY/register?utm_source=tcsweb&utm_medium=website&utm_campaign=ekyc" target="_blank">-->
+							<a href="https://opendemataccount.sbisecurities.in/SBIDIYV1/register?utm_source=Website&utm_medium=sslweb&utm_campaign=digisales" target="_blank">
+							<img src="/images/logs/Account.png" alt="Open your account instantly" title="Open your account instantly" border="0"><br/>
+							<span>Open your<br>account instantly <span></span></span>
+							</a>
+						</li>
+
+					   <li>
+						<a href="https://www.sbisecurities.in/contact-us" target="_blank">   <!--<a href=" https://uat.sbisecurities.in/contact-us" target="_blank">-->
+							<img src="/images/logs/customer_care_icon.png" alt="Customer Care" title="Customer Care" border="0"><br/>
+							<span>Reach us<span></span></span>
+							</a>
+						</li>
+					 
+						<li>
+							<a href="https://www.sbisecurities.in/corporate-website/knowledge-center/demos" target="_blank">
+							<img src="/images/logs/trading_demo_icon.png" alt="Trading Demo" title="Trading Demo" border="0"><br/>
+							<span>Trading Demo</span>
+							</a>
+						</li>
+
+						<li>
+							<a href="https://www.sbisecurities.in/corporate-website/knowledge-center/faq" target="_blank">
+							<!--<a href="https://ntrade.sbisec.com/pages/help/SSL35.html" target="_blank">-->
+							<img src="/images/logs/help_icon.png" alt="Help" title="sbi Securities" border="0"><br/>
+							<span>Help</span>
+							</a>
+						</li>
+
+						<li>
+							<a href="https://www.sbisecurities.in/corporate-website/contact-us#know-your-rm" target="_blank">   <!--https://app.sbismart.com/SBISMARTKnowYourRM/-->
+							<img src="/images/logs/know_your_rm.png" alt="Know Your RM" title="Know Your RM" border="0"><br/>
+							<span>Know Your RM</span>
+							</a>
+						</li>
+
+						<li>
+							<a href="https://www.sbisecurities.in/trading-platform" target="_blank">
+							<img src="/images/logs/download_App_icon.png" alt="Download Mobile App" title="Download Mobile App" border="0"><br/>
+							<span>Download<br>Mobile App</span>
+							</a>
+						</li>
+
+						<li>
+							<a href=" https://www.sbisecurities.in/contact-us#wide-branch-network" target="_blank">   <!--https://sbismart.com/contact-us/locate-us-->
+							<img src="/images/logs/branches_icon.png" alt="Branches" title="Branches" border="0"><br/>
+							<span>Branches</span>
+							</a>
+						</li>
+
+						<li>
+							<a  href="#" onclick="javascript:showSysRequirments();">
+							<img src="/images/logs/system_req_icon.png" alt="System Requirement" title="System Requirement" border="0"><br/>
+							<span>System Requirement</span>
+							</a>
+						</li>
+
+						<div class="clearfix"></div>
+
+
+				  </ul> 
+
+				</div>
+			</div>
+		</footer>
+		
+		<center>
+		<div class="clearfix"></div>
+			<div class="footerText">
+				
+			<p>SEBI Registration N0.: Stock Broker: INZ000200032 | DP Registration No.:IN-DP-314-2017 | Research Analyst:INH000000602 | 
+Portfolio Manager: INP000004912 | IRDAI :CA0103
+Equities: Trading through SBICAP Securities Limited | Corporate Identity Number (CIN):U65999MH2005PLC155485 | Mutual Fund Distributor: ARN-0011 | Website:
+www.sbisecurities.in| v14.0.0.0.0</p>
+
+			<ul>
+                 
+                 <li><a href="https://www.sebi.gov.in/" target="_blank">wwww.sebi.gov.in</a></li>
+
+                 <li><a href="https://www.nseindia.com/" target="_blank">www.nseindia.com</a></li>
+
+                 <li><a href="https://www.bseindia.com/" target="_blank">www.bseindia.com</a></li>
+				 
+				 <li><a href=" https://www.sbisecurities.in/files/pdf/Privacy-Policy.pdf" target="_blank">Privacy Policy</a></li>
+				 <!--https://www.sbismart.com/sites/default/files/pdf/Privacy-Policy.pdf-->
+				 
+				 
+
+			</ul>
+
+		</div>
+		
+	</center>
+		<!-- footer ends here -->
+</div>
+<!-- main wrapper ends here -->
+
+<div class="clearfix"></div>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css"/>
+ <script language="javascript" >
+ 
+ //19 Aug: js logic for 2fa
+ 
+  var twoFaModeJs = 'Y';
+  console.log("twoFaModeJs: "+twoFaModeJs);
+  var currPage = "1"; //1-> login page, 2-> otp page
+  if(twoFaModeJs == "N"){
+	  //use dob for 2fa 
+	  $("#resendOTP").hide();
+	  $("#backToLogin").hide();
+	  $("#otpSubmit1").hide();
+	 
+  }
+  else{
+	$("#submitButton").hide(); //hiding login now button
+	$("#resendOTP").hide();
+	$("#backToLogin").hide();
+	$("#dobfield").hide(); // hide dob field dobicon
+  var servletOTP = "";
+  var otpStartTime = "";
+  }
+  // otp submit click
+	$("#otpSubmit1").click(function()
+	{
+		//let formCheck1 =  chkuserId2();
+		
+		let formCheck1 = false;
+		if(OTPAsk == "First") {
+			formCheck1 =  chkuserId2();
+		} else if(OTPAsk == "Second") {
+			formCheck1 =  true;
+		}
+		
+		console.log("otp submit 1 clicked");
+		if(formCheck1){
+		$("#otpSubmit1").prop('disabled', true);
+		$("#TandC").hide();
+		//disable login form
+		//disableLoginForm()
+		var strUrl='/OTPValServletAction.do?method=sendOTP';  //DpSyncCall';
+		$("#otpSubmit1").attr("disabled", true);
+		var param = "&Channel="+"I"+
+							"&userId="+$("#userId").val()+
+							"&dob="+$("#dob").val()+
+							"&password="+encodeURIComponent($("#password").val())+
+							"&terminal=ITS"+
+							"&BaseNo="+$("#BaseNo").val();
+							
+		$.ajax({
+					url: strUrl,		
+					type: 'POST',
+					data: param,
+					async: false,
+					cache: false,
+					dataType: "json",
+					success: function(json) {
+						//console.log(json);
+					//$('#DpSyncBtn').attr("disabled", false);
+					if(json["status"] === false)
+					{
+						alert(json["errmsg"]);
+						//clearing login form 
+						enableLoginForm();
+						clearLoginForm();
+						$("#otpSubmit1").prop('disabled', false);
+						//ITSUtility.handleSessionExpiry(json);
+						return;
+					}
+					//else if(json["status"]==its.constants.NODATA){
+						
+					//}
+					else{
+						if(json["status"]){
+							
+							currPage = "2"; //now on otp page
+						document.getElementById("otpdiv").classList.add("otpDivBox");
+						// json["status"] === true 
+						// otp sent successfully 
+					    //otp_pin
+						//unhide otp input box
+						$("#otpHideFields").hide();
+						$("#otpmesg").show(); 
+						$("#otpmesg1").show();
+						$("#otpmesg2").show(); 
+						$("#otpSubmit1").hide();
+						document.getElementById("otp_pin").type = "password";
+					    $("#otp_pin").show(); 
+						//unhide otp validate button
+						document.getElementById("validateOtp").type = "button";
+						let startTime = new Date();
+						otpStartTime = startTime.getTime()/1000;
+					    $("#validateOtp").show();
+						servletOTP=(json.otp);
+						//console.log("servletOtp: "+servletOTP);
+						//console.log("startTime: "+otpStartTime);
+						alert("OTP has been sent successfully on your registered Mobile Number and Email ID. It will be valid for 5 minutes.\nKindly Note: OTP will be sent only on Indian Mobile Number.");
+						//alert("OTP: "+servletOTP);
+						$("#otp_pin").focus();
+						$("#resendOTP").show();
+						$("#backToLogin").show();
+						return;
+						}
+						
+						
+						}},
+					error: function(XMLHttpRequest, textStatus, errorThrown) {
+					
+						////alertify.alert("error" + errorThrown);
+						////alertify.alert("textStatus" + textStatus);
+					}
+				});				
+
+		}
+		
+	});
+  
+  
+  
+   function chkuserId2() 
+			 {
+				 console.log("inside chkuserId2");
+				 document.getElementById("dob").value="11111111";
+
+			  var frmname = "login_frm";
+			  var theValue = document.getElementById("userId").value;//theForm.userId.value;
+			  if ((theValue.length == 0) || (theValue == "")) {
+				document.getElementById("userId").value="";//theForm.password.value = "";
+				document.getElementById("dob").value="";//theForm.dob.value = "";
+				alert("Please enter a valid username.");
+				document.getElementById("userId").focus();//theForm.userId.focus();
+				document.getElementById("userId").select();//theForm.userId.select();
+				return false;
+			  }
+			  else if(document.getElementById("password").value == "") {
+				alert("Please enter your password.");
+				document.getElementById("password").focus();
+				//theForm.password.focus();
+				return false;
+			  }
+				else if(document.getElementById("password").value==""){ 
+					alert("Please enter date of birth.");
+					document.getElementById("dob").focus();//theForm.dob.focus();
+					return false; 
+				}
+				else if(document.getElementById("dob").value !="" && !validateDate(document.getElementById("dob"))){
+					document.getElementById("dob").focus();
+					return false;
+					}
+				else if(!validateDate(document.getElementById("dob"))){
+					 document.getElementById("dob").focus();
+					return false;
+					}
+					else
+					{
+					encpt2();
+					//disableSubmitButton(document.getElementById("otpSubmit1"));
+				return true;
+			  }
+			 }
+		function encpt2(){
+			document.getElementsByClassName('fa-eye-slash').disabled=false;
+			document.getElementById('password').setAttribute('type','password')
+			document.getElementById('dob').setAttribute('type','password')
+			
+			var strURL = '/checkUtility.jsp';
+			$.ajax({
+				url: strURL,		
+				type: 'POST',
+				async: false,
+				cache: false,
+				dataType: "json",
+				success: function(json) {
+					var loginId = document.getElementById("userId").value;
+					var dob = document.getElementById("dob").value;
+					var randomHash=Math.floor(Math.random() * 115463345);
+					var randomHash1 = randomHash.toString();
+					var pwd=document.getElementById("password").value;
+					var hash = sha256(randomHash1);
+					var Hash1 = sha256(json["data"]["h2"]);
+					var Hash2 = sha256(pwd);
+					var Hash3 = sha256(loginId);
+					var salt = hash;
+			
+					var aesEncryption = new AesEncryption(128, 1000);
+					var encryptedString = aesEncryption.encrypt(salt, json["data"]["liv"], json["data"]["tech"], pwd);
+					var encHash = aesEncryption.encrypt(Hash1, json["data"]["liv"], json["data"]["tech"], randomHash1);
+					var encLogin = aesEncryption.encrypt(Hash2, json["data"]["liv"], json["data"]["tech"], loginId);
+					var encDob = aesEncryption.encrypt(Hash3, json["data"]["liv"], json["data"]["tech"], dob);
+					
+					document.getElementById("password_enc").value = encryptedString;
+					document.getElementById("BaseNo_enc").value = encHash;
+					document.getElementById("userId_enc").value = encLogin;
+					document.getElementById("dob_enc").value = encDob;
+
+					
+					document.getElementById("password").value = encryptedString;
+					document.getElementById("BaseNo").value = encHash;
+					document.getElementById("userId").value = encLogin;
+					document.getElementById("dob").value = encDob;
+
+				},
+				error: function(XMLHttpRequest, textStatus, errorThrown) {
+					alert(textStatus);
+					alert(errorThrown);
+				}
+			});
+		}
+		   function clearLoginForm(){
+			document.getElementById("password").value = "";
+			document.getElementById("BaseNo").value = "";
+			document.getElementById("userId").value = "";
+			document.getElementById("userId").type = "text";
+			//document.getElementById("dob").value = "";
+		   } 
+		   function disableLoginForm(){
+			   $("#userId").prop('disabled', true);
+			   $("#password").prop('disabled', true);
+			   $("#dob").prop('disabled', true);
+	
+		   } 
+		  function enableLoginForm(){
+			   $("#userId").prop('disabled', false);
+			   $("#password").prop('disabled', false);
+			   $("#dob").prop('disabled', false);
+	
+		   } 
+		   /* function validateOTP(trueOtp){
+			  enableLoginForm();//arjun: imp for authenticate to work
+			  let userEnteredOtp = document.getElementById("otp_pin").value;
+			  //console.log("userEnteredOtp: "+userEnteredOtp);
+			  let entryTime = new Date();
+			  entryTime = entryTime.getTime()/1000;
+			  let timeDiffSecs = entryTime - otpStartTime;
+			  console.log("timeDiffSecs: "+timeDiffSecs);
+
+			  if(userEnteredOtp == trueOtp ){
+				  if(timeDiffSecs > 5*60){// in secs
+					alert("OTP expired. Kindly resend to Login.!!!");
+					window.location.reload();
+
+				   }
+				   else{
+					   validateOTPServlet("T");
+				  
+				    //alert("Otp Verified successfully !!!");
+				    $("#validateOtp").prop('disabled', true);
+				    //submitButton
+					
+				    $("#submitButton").click();
+				   }
+			  }
+			  else{
+				  validateOTPServlet("F");
+				  alert("You have entered wrong OTP, Please try again. 3 attempts will lock your account.!!!");
+				  
+				  disableLoginForm();
+				  document.getElementById("otp_pin").focus();
+			  }
+			   
+		   } */
+		   
+		   function validateOTP(trueOtp){ //Added for otp vapt
+			  enableLoginForm();//arjun: imp for authenticate to work
+			  let userEnteredOtp = document.getElementById("otp_pin").value;
+			  //console.log("userEnteredOtp: "+userEnteredOtp);
+			  let entryTime = new Date();
+			  entryTime = entryTime.getTime()/1000;
+			  let timeDiffSecs = entryTime - otpStartTime;
+			  console.log("timeDiffSecs: "+timeDiffSecs);
+
+			 
+				  if(timeDiffSecs > 5*60){// in secs
+					alert("OTP expired. Kindly resend to Login.!!!");
+					window.location.reload();
+
+				   }
+				   else{
+					   validateOTPServlet("T",trueOtp,userEnteredOtp);
+				   }
+		   }
+		   
+		  $("#validateOtp").click(function()
+		  {
+			  console.log("validate otp clicked! ");
+			  // otp_pin
+			 validateOTP(servletOTP);
+			  
+		  });
+		 function resend_OTP() 
+			 {
+				 console.log("resend otp clicked !!!");
+				 //otpSubmit1
+				  OTPAsk = "Second";
+				  $("#otpSubmit1").click();
+				 return true;
+			 }
+		/*function validateOTPServlet(validate,trueOtp,userEnteredOtp)
+	{
+		console.log("validateOTPServlet() called !!!");
+		var strUrl='/OTPValServletAction.do?method=validateOTP';
+		
+		var param = "&Channel="+"I"+
+							"&userId="+$("#userId_enc").val()+
+							"&dob="+$("#dob_enc").val()+
+							"&password="+encodeURIComponent($("#password_enc").val())+
+							"&terminal=ITS"+
+							"&BaseNo="+$("#BaseNo_enc").val()+
+							"&validation="+validate;
+							
+		$.ajax({
+					url: strUrl,		
+					type: 'POST',
+					data: param,
+					async: true,
+					cache: false,
+					dataType: "json",
+					success: function(json) {
+						console.log(json);
+					//$('#DpSyncBtn').attr("disabled", false);
+					if(json["status"] === false)
+					{
+						return;
+					}
+					//else if(json["status"]==its.constants.NODATA){
+						
+					//}
+					else{
+						// json["status"] === true 
+						//logoncounter increased successfully 
+						if(json["islocked"] === true){
+							alert("Your account is locked !");
+							window.location.reload();
+						}
+						else{
+							//alert("3 incorrect attempts will lock your account !");
+						}
+						return;
+						
+						
+						}},
+					error: function(XMLHttpRequest, textStatus, errorThrown) {
+					
+						////alertify.alert("error" + errorThrown);
+						////alertify.alert("textStatus" + textStatus);
+					}
+				});				
+				 
+				 
+			 } */
+			 
+			function validateOTPServlet(validate,trueOtp,userEnteredOtp) 
+	{
+		console.log("validateOTPServlet() called !!!");
+		var strUrl='/OTPValServletAction.do?method=validateOTP';
+		
+		var param = "&Channel="+"I"+
+							"&userId="+$("#userId_enc").val()+
+							"&dob="+$("#dob_enc").val()+
+							"&password="+encodeURIComponent($("#password_enc").val())+
+							"&terminal=ITS"+
+							"&BaseNo="+$("#BaseNo_enc").val()+
+							"&validation="+validate+"&trueOtp="+trueOtp+"&userEnteredOtp="+userEnteredOtp;
+							
+		$.ajax({
+					url: strUrl,		
+					type: 'POST',
+					data: param,
+					async: true,
+					cache: false,
+					dataType: "json",
+					success: function(json) {
+						console.log(json);
+						if(json["status"] === true){
+						if(json["islocked"] === true){
+							alert("Your account is locked !");
+							window.location.reload();
+						}
+					}
+					if(json["validation"] === "F") 
+					{
+						alert("You have entered incorrect OTP. Try again!!!");
+						disableLoginForm();
+						document.getElementById("otp_pin").focus();
+					}
+					else if(json["validation"] === "T"){ 
+						$("#validateOtp").prop('disabled', true);
+						$("#submitButton").click(); //Normal Login button
+					}
+
+					else{
+						//OTP EXPIRED 
+						alert("OTP session expired, Try again");
+						window.location.reload();
+					}
+				},
+				error: function(XMLHttpRequest, textStatus, errorThrown) {
+					console.log("textStatus::"+textStatus);
+					console.log("errorThrown::"+errorThrown);
+				}
+			});				
+		}
+		
+	function backToLogin(){
+		window.location.reload();
+	}
+	$("#otp_pin").keypress(function(event) {
+		//Arjun: when user enters otp and clicks enter key then validate otp button should get clicked.
+        if (event.keyCode === 13) {
+            $("#validateOtp").click();
+        }
+        });
+  
+	
+	
+	
+	$('#login_frm').on('keypress ', function(e) {
+  var keyCode = e.keyCode || e.which;
+  if (keyCode === 13) {
+     //alert(currPage);
+	 if(currPage == "1"){
+	$("#otpSubmit1").click();
+	
+    return false;
+    //e.preventDefault();
+	 }
+
+  }
+});
+  
+ </script>	<!-- 19 Aug script end 2fa -->
+ <script language="javascript" >
+ 
+ 
+ window.onload = function(){
+	                 var sMessage="";
+                     if(sMessage!="")
+                     alert(sMessage);
+				 sMessage="";};
+                    
+		function showSysRequirments()
+		{
+			alert("SBI Securities Trading site: 1366 x 768 screen resolution (32 bit browsers) in IE 11, Firefox 53, Windows Safari 5, Mac Safari 5, Chrome 57, Opera 15 onwards.");
+			
+		}
+		
+		
+
+
+$("body").on('click','.toggle-password',function(){
+$(this).toggleClass("fa-eye fa-eye-slash");
+var input=$("#password");
+if(input.attr("type")==="password")
+{
+input.attr("type","text");
+}
+else{
+input.attr("type","password");
+}
+});
+ 
+ 
+  $("body").on('click','.toggle-dob',function(){
+$(this).toggleClass("fa-eye fa-eye-slash");
+var input=$("#dob");
+if(input.attr("type")==="password")
+{
+input.attr("type","text");
+}
+else{
+input.attr("type","password");
+}
+});
+            </script>	
+
+<!--<script type="text/javascript">
+window.$zopim||(function(d,s){var z=$zopim=function(c){z._.push(c)},$=z.s=
+d.createElement(s),e=d.getElementsByTagName(s)[0];z.set=function(o){z.set.
+_.push(o)};z._=[];z.set._=[];$.async=!0;$.setAttribute("charset","utf-8");
+$.src="https://v2.zopim.com/?4XcSS6Xtn5tnBU8588AS9HV2pKJlxfpS";z.t=+new Date;$.
+type="text/javascript";e.parentNode.insertBefore($,e)})(document,"script");
+</script>	-->
+	
+</body>
+</html>

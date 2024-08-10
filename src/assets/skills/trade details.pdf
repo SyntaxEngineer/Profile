@@ -1,0 +1,257 @@
+
+<!-- saved from url=(0071)https://trade.sbisecurities.in/precision/report/wr_eq_trade_details.jsp -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252"><script> 
+var isNS = (navigator.appName == "Netscape") ? 1 : 0; 
+if(navigator.appName == "Netscape") 
+	document.captureEvents(Event.MOUSEDOWN||Event.MOUSEUP);  
+	function mischandler(){   
+		return false; 
+		}  
+	function mousehandler(e){ 	
+		var myevent = (isNS) ? e : event; 	
+		var eventbutton = (isNS) ? myevent.which : myevent.button;    
+		if((eventbutton==2)||(eventbutton==3)) 
+			return false; 
+		} 
+		document.oncontextmenu = mischandler; 
+		document.onmousedown = mousehandler; 
+		document.onmouseup = mousehandler;
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+	 
+		
+        <link rel="stylesheet" id="stylesheet" type="text/css" href="./trade details_files/common.css">
+   
+		<script language="javascript" src="./trade details_files/common.js.download"></script>
+		
+
+
+
+
+		
+        <link rel="stylesheet" id="stylesheet" type="text/css" href="./trade details_files/common.css">
+   
+	   
+
+
+	
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"SJ-b4d102a2-af62-4a9a-8463-c5af32fea4c7","rua.cook":"true","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch"}]);</script>
+                              <script>!function(e){var n="https://s.go-mpulse.net/boomerang/";if("False"=="True")e.BOOMR_config=e.BOOMR_config||{},e.BOOMR_config.PageParams=e.BOOMR_config.PageParams||{},e.BOOMR_config.PageParams.pci=!0,n="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="PH5PN-2TF8M-QJM5X-75397-MHY82",function(){function e(){if(!o){var e=document.createElement("script");e.id="boomr-scr-as",e.src=window.BOOMR.url,e.async=!0,i.parentNode.appendChild(e),o=!0}}function t(e){o=!0;var n,t,a,r,d=document,O=window;if(window.BOOMR.snippetMethod=e?"if":"i",t=function(e,n){var t=d.createElement("script");t.id=n||"boomr-if-as",t.src=window.BOOMR.url,BOOMR_lstart=(new Date).getTime(),e=e||d.body,e.appendChild(t)},!window.addEventListener&&window.attachEvent&&navigator.userAgent.match(/MSIE [67]\./))return window.BOOMR.snippetMethod="s",void t(i.parentNode,"boomr-async");a=document.createElement("IFRAME"),a.src="about:blank",a.title="",a.role="presentation",a.loading="eager",r=(a.frameElement||a).style,r.width=0,r.height=0,r.border=0,r.display="none",i.parentNode.appendChild(a);try{O=a.contentWindow,d=O.document.open()}catch(_){n=document.domain,a.src="javascript:var d=document.open();d.domain='"+n+"';void(0);",O=a.contentWindow,d=O.document.open()}if(n)d._boomrl=function(){this.domain=n,t()},d.write("<bo"+"dy onload='document._boomrl();'>");else if(O._boomrl=function(){t()},O.addEventListener)O.addEventListener("load",O._boomrl,!1);else if(O.attachEvent)O.attachEvent("onload",O._boomrl);d.close()}function a(e){window.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!window.BOOMR||!window.BOOMR.version&&!window.BOOMR.snippetExecuted){window.BOOMR=window.BOOMR||{},window.BOOMR.snippetStart=(new Date).getTime(),window.BOOMR.snippetExecuted=!0,window.BOOMR.snippetVersion=12,window.BOOMR.url=n+"PH5PN-2TF8M-QJM5X-75397-MHY82";var i=document.currentScript||document.getElementsByTagName("script")[0],o=!1,r=document.createElement("link");if(r.relList&&"function"==typeof r.relList.supports&&r.relList.supports("preload")&&"as"in r)window.BOOMR.snippetMethod="p",r.href=window.BOOMR.url,r.rel="preload",r.as="script",r.addEventListener("load",e),r.addEventListener("error",function(){t(!0)}),setTimeout(function(){if(!o)t(!0)},3e3),BOOMR_lstart=(new Date).getTime(),i.parentNode.appendChild(r);else t(!1);if(window.addEventListener)window.addEventListener("load",a,!1);else if(window.attachEvent)window.attachEvent("onload",a)}}(),"".length>0)if(e&&"performance"in e&&e.performance&&"function"==typeof e.performance.setResourceTimingBufferSize)e.performance.setResourceTimingBufferSize();!function(){if(BOOMR=e.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var n="false"=="true"?1:0,t="cookiepresent",a="eqeub5aq7m26ujqacqhqabqaabsw2lr6-f-d77feca10-clienttons-s.akamaihd.net",i="false"=="true"?2:1,o={"ak.v":"36","ak.cp":"1286428","ak.ai":parseInt("771642",10),"ak.ol":"0","ak.cr":29,"ak.ipv":6,"ak.proto":"h2","ak.rid":"44323d96","ak.r":38160,"ak.a2":n,"ak.m":"dsca","ak.n":"essl","ak.bpcip":"2409:40f4:10fb:35ea::","ak.cport":55506,"ak.gh":"23.44.10.22","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1701654078","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==vDBLnlIxk7mAgjaU0xacC6jF9XtQbcDegKKyikNMsqCVjQd9mJRX51gQ/ILY3/eQ9rJrhHy640cxIUT85E3+vLPnrj72z0unQ1gVuFT1cbESEVWm88SdgNtz6HfbglbKg+cb2kn43GBkd4q/Iy2k1j1PPC7qRE8dS31T/Nbr7kf7JS5eH3rPsBuc9p+QqypB3FH5yQMKfM2Lnvc0Ybo8/QYgHaOH+Ia5N4DTeHUvAE+8griCxPM1L0mcdOwhv2WxY2CWpvqyHEXMp0+0u90/HXE94Qvj/N2gHtMB+3JYG13YhOE83td1dKkwEhjnof4lTHn/ajXR7DfWiV9LRpT/9TEGNxNTFAvvNf6uCIi4MOPwvIiYOIbkEIQpryjdOSz6AtAIug2Xoq3fuaWJ4TRGPTCMEQX7Hug/S75I0/2+ew0=","ak.pv":"16","ak.dpoabenc":"","ak.tf":i};if(""!==t)o["ak.ruds"]=t;var r={i:!1,av:function(n){var t="http.initiator";if(n&&(!n[t]||"spa_hard"===n[t]))o["ak.feo"]=void 0!==e.aFeoApplied?1:0,BOOMR.addVar(o)},rv:function(){var e=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(e)}};BOOMR.plugins.AK={akVars:o,akDNSPreFetchDomain:a,init:function(){if(!r.i){var e=BOOMR.subscribe;e("before_beacon",r.av,null,null),e("onbeacon",r.rv,null,null),r.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script><link href="./trade details_files/PH5PN-2TF8M-QJM5X-75397-MHY82" rel="preload" as="script"><script id="boomr-scr-as" src="./trade details_files/PH5PN-2TF8M-QJM5X-75397-MHY82" async=""></script><link id="dnsprefetchlink" rel="dns-prefetch" href="https://eqeub5aq7m26ujqacqhqabqaabsw2lr6-f-d77feca10-clienttons-s.akamaihd.net/"></head>
+	<body>	
+		<table align="center" border="0" width="1000" cellspacing="0" cellpadding="1" class="page_text">
+		<thead>
+		
+		
+
+
+<tr>
+    <td class="top_menu0" align="left" colspan="9">
+		<img align="left" src="./trade details_files/saved_resource"> 
+		 
+        
+    </td>
+</tr>
+
+		
+		
+			
+			
+			
+			<tr><td colspan="26" align="center" style="BORDER-RIGHT:none; BORDER-TOP:none; BORDER-LEFT:none;"><center><span class="param_title"><b> Equity Trade Report  for the period   01/11/23   to   04/12/23<b></b></b></span></center></td></tr><tr><td colspan="23" align="left" class="param_list">Entity Id : 1000237719</td><td colspan="3" align="right" class="info">Amount is in Rs.</td></tr>
+		<tr>
+		<th width="4%" class="row_heading_1" style="background-color: #CC99FF;"><b>Trd Dt</b></th> 
+		<th width="4%" class="row_heading_1" style="background-color: #CC99FF;"><b>Trd No.</b></th> 
+		<th width="4%" class="row_heading_1" style="background-color: #CC99FF;"><b>Order No.</b></th> 
+		<th width="3%" class="row_heading_1" style="background-color: #CC99FF;"><b>Exch</b></th> 
+		<th width="4%" class="row_heading_1" style="background-color: #CC99FF;"><b>Sett No</b></th> 
+		<th width="3%" class="row_heading_1" style="background-color: #CC99FF;"><b>Sett Type</b></th> 
+		<th width="4%" class="row_heading_1" style="background-color: #CC99FF;"><b>Trade Time</b></th> 
+		<th width="4%" class="row_heading_1" style="background-color: #CC99FF;"><b>Order Time</b></th> 
+		<th width="6%" class="row_heading_1" style="background-color: #CC99FF;"><b>Scrip Name</b></th> 
+		<th width="3%" class="row_heading_1" style="background-color: #CC99FF;"><b>Buy/Sell</b></th> 
+		<th width="3%" class="row_heading_1" style="background-color: #CC99FF;"><b>Qty</b></th> 
+		<th width="3%" class="row_heading_1" style="background-color: #CC99FF;"><b>Mkt Price</b></th> 
+		<th width="4%" class="row_heading_1" style="background-color: #CC99FF;"><b>Mkt Value</b></th> 
+		<th width="4%" class="row_heading_1" style="background-color: #CC99FF;"><b>Squp/Del</b></th> 
+		<th width="4%" class="row_heading_1" style="background-color: #CC99FF;"><b>Brok Amt</b></th> 
+		<th width="4%" class="row_heading_1" style="background-color: #CC99FF;"><b>CGST</b></th> 
+		<th width="4%" class="row_heading_1" style="background-color: #CC99FF;"><b>Stamp Duty</b></th> 
+		<th width="3%" class="row_heading_1" style="background-color: #CC99FF;"><b>Transn Chrg</b></th> 
+		<th width="3%" class="row_heading_1" style="background-color: #CC99FF;"><b>CGST on Transn Chrg</b></th> 
+		<th width="4%" class="row_heading_1" style="background-color: #CC99FF;"><b>STT</b></th> 
+		<th width="4%" class="row_heading_1" style="background-color: #CC99FF;"><b>Sebi Turnover Tax</b></th> 
+		<th width="4%" class="row_heading_1" style="background-color: #CC99FF;"><b>SGST</b></th> 
+		<th width="3%" class="row_heading_1" style="background-color: #CC99FF;"><b>IGST</b></th> 
+		<th width="3%" class="row_heading_1" style="background-color: #CC99FF;"><b>Other Chrg</b></th> 
+		<th width="3%" class="row_heading_1" style="background-color: #CC99FF;"><b>Net Amt</b></th> 
+		<th width="3%" class="row_heading_1" style="background-color: #CC99FF;"><b>Product</b></th>
+		<th width="2%" class="row_heading_1" style="background-color: #CC99FF;"><b>SIP Flag</b></th>
+		<th width="3%" class="row_heading_1" style="background-color: #CC99FF;"><b>SIP Ref No</b></th>
+		</tr> 
+		</thead>
+		<tbody>
+			
+		
+			
+				<tr>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> 09-Nov-2023 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> 2023110943405903 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> 1200000009885811 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> NSE </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> 2023212 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> M </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> 12:03:43 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> 10:11:48 </td>
+					<td bgcolor="#EBEEF7" width="6%" align="center" class="detail_border"> MTAR TECHNOLOGIES LIMITED </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> B </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> 10 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border">           2300.00 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">          23000.00 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> D </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">            115.00 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">              0.00 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">              3.00 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border">              0.77 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border">              0.00 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">             23.00 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">              0.02 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">              0.00 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border">             20.84 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border">              0.00 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> -23162.63 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> Cash </td>
+					<td bgcolor="#EBEEF7" width="2%" align="center" class="detail_border"> N </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> 0 </td>
+
+				</tr>
+				
+		
+			
+				<tr>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> 16-Nov-2023 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> 2023111618342400 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> 1700105400001125429 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> BSE </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> 2023217 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> M </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> 10:19:42 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> 10:19:42 </td>
+					<td bgcolor="#EBEEF7" width="6%" align="center" class="detail_border"> HIGH ENERGY BATTERIES (INDIA) </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> B </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> 4 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border">            559.00 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">           2236.00 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> D </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">             11.20 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">              0.00 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">              0.29 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border">              2.24 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border">              0.00 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">              2.32 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">              0.00 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">              0.00 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border">              2.42 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border">              0.00 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> -2254.47 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> Cash </td>
+					<td bgcolor="#EBEEF7" width="2%" align="center" class="detail_border"> N </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> 0 </td>
+
+				</tr>
+				
+		
+			
+				<tr>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> 16-Nov-2023 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> 2023111662024719 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> 1300000000136434 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> NSE </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> 2023217 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> M </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> 10:32:41 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> 09:01:15 </td>
+					<td bgcolor="#EBEEF7" width="6%" align="center" class="detail_border"> SWAN ENERGY LIMITED </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> B </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> 5 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border">            427.00 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">           2135.00 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> D </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">             10.70 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">              0.00 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">              0.28 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border">              0.07 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border">              0.00 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">              2.21 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">              0.00 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">              0.00 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border">              1.94 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border">              0.00 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> -2150.2 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> Cash </td>
+					<td bgcolor="#EBEEF7" width="2%" align="center" class="detail_border"> N </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> 20231116 </td>
+
+				</tr>
+				
+		
+			
+				<tr>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> 16-Nov-2023 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> 2023111623260200 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> 1700105400001125429 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> BSE </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> 2023217 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> M </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> 10:39:52 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> 10:39:52 </td>
+					<td bgcolor="#EBEEF7" width="6%" align="center" class="detail_border"> HIGH ENERGY BATTERIES (INDIA) </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> B </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> 6 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border">            559.00 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">           3354.00 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border"> D </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">             16.80 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">              0.00 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">              0.43 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border">              3.35 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border">              0.00 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">              3.47 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">              0.01 </td>
+					<td bgcolor="#EBEEF7" width="4%" align="center" class="detail_border">              0.00 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border">              3.62 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border">              0.00 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> -3381.68 </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> Cash </td>
+					<td bgcolor="#EBEEF7" width="2%" align="center" class="detail_border"> N </td>
+					<td bgcolor="#EBEEF7" width="3%" align="center" class="detail_border"> 0 </td>
+
+				</tr>
+				
+		</tbody>
+				</table>
+	
+
+
+
+
+
+
+
+</body></html>
